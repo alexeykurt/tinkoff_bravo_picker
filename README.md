@@ -6,4 +6,5 @@
 python tinkoff_bravo_picker.py --points=${points} --transactions=${transactions} --hidden
 ```
 Где points — кол-во доступных баллов Браво
+
 transactions — операции для компенсации через запятую (только сумма баллов)
