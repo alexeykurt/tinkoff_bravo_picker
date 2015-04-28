@@ -3,7 +3,7 @@
 
 ## Использование:
 ```bash
-python tinkoff_bravo_picker.py --points=${points} --transactions=${transactions} --hidden
+python tinkoff_bravo_picker.py --points=${points} --transactions=${transactions}
 ```
 Где points — кол-во доступных баллов Браво
 
